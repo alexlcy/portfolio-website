@@ -4,6 +4,7 @@ const dotenv = require('dotenv')
 const projectRoute = require('./routes/projects')
 const categoryRoute = require('./routes/categories');
 const mongoose = require('mongoose');
+const path = require('path')
 
 dotenv.config();
 app.use(express.json());
