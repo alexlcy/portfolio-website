@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f6c10dbe.chunk.js",
+    "main.js.map": "/static/js/main.f6c10dbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc33665e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc33665e.js.map",
+    "static/css/2.853ba1bc.chunk.css": "/static/css/2.853ba1bc.chunk.css",
+    "static/js/2.71d88b9a.chunk.js": "/static/js/2.71d88b9a.chunk.js",
+    "static/js/2.71d88b9a.chunk.js.map": "/static/js/2.71d88b9a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.853ba1bc.chunk.css.map": "/static/css/2.853ba1bc.chunk.css.map",
+    "static/js/2.71d88b9a.chunk.js.LICENSE.txt": "/static/js/2.71d88b9a.chunk.js.LICENSE.txt",
+    "static/media/AIESEC.c032e279.png": "/static/media/AIESEC.c032e279.png",
+    "static/media/HSBC.5c60d6cf.png": "/static/media/HSBC.5c60d6cf.png",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/OOCL.7e4182cc.png": "/static/media/OOCL.7e4182cc.png",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/casual_photo_1.01f67ed3.jpeg": "/static/media/casual_photo_1.01f67ed3.jpeg",
+    "static/media/casual_photo_3.79a4881b.jpeg": "/static/media/casual_photo_3.79a4881b.jpeg",
+    "static/media/financial_program.41229f4f.png": "/static/media/financial_program.41229f4f.png",
+    "static/media/gcp.065e4610.png": "/static/media/gcp.065e4610.png",
+    "static/media/google_architect.a3dac1c3.png": "/static/media/google_architect.a3dac1c3.png",
+    "static/media/google_data.077bf333.png": "/static/media/google_data.077bf333.png",
+    "static/media/map.7d98ba39.png": "/static/media/map.7d98ba39.png",
+    "static/media/profile-icon.e4ac7be7.png": "/static/media/profile-icon.e4ac7be7.png",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/python.03b7f08e.png": "/static/media/python.03b7f08e.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/spark.c53a5551.png": "/static/media/spark.c53a5551.png",
+    "static/media/tableau.2f713dbd.png": "/static/media/tableau.2f713dbd.png",
+    "static/media/tensorflow.4494dc28.png": "/static/media/tensorflow.4494dc28.png",
+    "static/media/tensorflow_developer.c42092cd.png": "/static/media/tensorflow_developer.c42092cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc33665e.js",
+    "static/css/2.853ba1bc.chunk.css",
+    "static/js/2.71d88b9a.chunk.js",
+    "static/js/main.f6c10dbe.chunk.js"
+  ]
+}
