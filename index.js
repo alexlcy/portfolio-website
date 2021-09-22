@@ -5,6 +5,7 @@ const projectRoute = require('./routes/projects')
 const categoryRoute = require('./routes/categories');
 const mongoose = require('mongoose');
 const path = require('path')
+const process = require('process')
 
 dotenv.config();
 app.use(express.json());
@@ -16,7 +17,7 @@ mongoose.connect(process.env.MONGO_URL)
 app.use("/api/projects", projectRoute);
 app.use("/api/categories", categoryRoute);
 
-app.listen("5000", () => {
+app.listen(process.env.PORT || 5000, () => {
     console.log("Backend is running in port 5000");
 })
 
