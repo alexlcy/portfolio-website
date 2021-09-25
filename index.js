@@ -9,9 +9,12 @@ const process = require('process')
 
 dotenv.config();
 app.use(express.json());
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    next();
+  });
 
 app.use(express.static(path.join(__dirname, 'build')));
-
 
 mongoose.connect(process.env.MONGO_URL)
     .then(console.log("Connected to Mongo"))
